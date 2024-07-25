@@ -2,8 +2,8 @@
 <h3 align="center">I am a full stack web developer and systems engineering student, I love technology and solving problems.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=StexRoles&label=Profile%20views&color=0e75b6&style=flat" alt="StexRoles" /> </p>
 
-- 🌊 I was working on [Laguz](https://github.com/StexRoles/grupo_3_Laguz)
-- 🚀 I’m currently learning **React, Python and Postgresql**
+- 🌊 I was working on [Portfolio](https://github.com/StexRoles/Portfolio)
+- 🚀 I’m currently learning **React, Java and Postgresql**
 - 📫 How to reach me **stexroles@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/Steven Navarro Parrales" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -29,15 +29,3 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/StexRoles">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=StexRoles&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StexRoles&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StexRoles&theme=algolia" height="180em" />
-
-  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=StexRoles&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StexRoles&theme=algolia" height="180em" />
-</div>
